@@ -1,3 +1,4 @@
-flask
-flask-sqlalchemy
+django
 gunicorn
+django-heroku
+requests
